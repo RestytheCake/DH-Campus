@@ -1,2 +1,2 @@
 # DH-Campus
-DH-Campus Schul Porject Website
+DH-Campus Schul Project Website
