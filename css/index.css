@@ -1,0 +1,10 @@
+*
+
+#nav {
+    background-color: #444444;
+    overflow: hidden;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    margin: 0;
+}
